@@ -1,0 +1,24 @@
+Documents/Programacion/Pinabetes El Edén/css >> sass --watch main.sass:styles.css
+
+					<i class="icon icon-tree"></i>
+					<i class="icon icon-map"></i>
+					<i class="icon icon-contacto5"></i>
+
+
+		background: #fefefe
+				.icons
+					width: 4rem
+					a
+						color: #4a4a4a
+						padding: 0 1.8rem
+						line-height: 1.8rem
+						position: absolute
+
+<li class="icons">
+						<a href="#" class="home"><span><i class="icon icon-home"></i></span></a>
+						<a href="#" class="tree"><span><i class="icon icon-tree"></i></span></a>
+						<a href="#" class="map"><span><i class="icon icon-map"></i></span></a>
+						<a href="#" class="contacto"><span><i class="icon icon-contacto5"></i></span></a>
+					</li>
+
+menu expandible: 850px
